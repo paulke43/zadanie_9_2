@@ -11,8 +11,3 @@ if (allNames.indexOf(newName) === -1){
 
 console.log(allNames)
  
- 
-
-
-
-
